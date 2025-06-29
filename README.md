@@ -1,3 +1,3 @@
-# marcoibarra-git
+# Desafio 15
 
-# DESAFIO 15 del trabajo practico N2 de programación / ITSE
+# Desafio 15 del trabajo practico N2 de programación / ITSE
